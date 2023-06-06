@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Adeno.Group Hosting
+- 🔭 I’m currently not working
 - 🌱 I’m currently learning devops
 - 🤔 Skills: PHP (Laravel), JS (Vue, NodeJS), CSS (Tailwind, Bootstrap), C#, Python, 
 - 📫 Contact: hasantigiev.t.me
